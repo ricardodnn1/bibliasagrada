@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702071134601",
+    "firebase_url": "https://biblia-sagrada-d8034.firebaseio.com",
+    "project_id": "biblia-sagrada-d8034",
+    "storage_bucket": "biblia-sagrada-d8034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702071134601:android:33a7843d30d219f5b22958",
+        "android_client_info": {
+          "package_name": "br.com.ricardodn.bibliasagrada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702071134601-nhp8c7e7019j2aejr2s05qkia0qrkbaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBemESw7N0SzTa27GO_nW6PoNoW8T6eecQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702071134601-nhp8c7e7019j2aejr2s05qkia0qrkbaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
